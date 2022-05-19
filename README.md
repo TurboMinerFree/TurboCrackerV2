@@ -32,6 +32,7 @@ Enjoy the real speed of light, increase your hit chance, lower any delay!
 Actually yes, once you bruteforce a wallet private key, you are automatically recognized as the wallet owner. Therefore you are able to perform everything on that wallet
 
 ### "Download Now"
+You also need C++
 pip install requests
 pip install psutil
 pip install web3
